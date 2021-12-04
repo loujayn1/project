@@ -1,0 +1,19 @@
+body{
+    background-image:#c20b0b;
+    font-family:arial;
+
+}
+h1{
+    color:darkblue;
+    font-style: italic;
+    font-size: 18px;
+}
+h3{
+    color:darkgoldenrod;
+    font-style: italic;
+    font-size: 14px;
+}
+p{
+    font-size: medium;
+    
+}
